@@ -1,2 +1,2 @@
-# Project-1
+# METIS EDA PROJECT
 MTA Wi-Fi network 
